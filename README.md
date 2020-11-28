@@ -1,4 +1,4 @@
-# ml101-assignment-1
+# Assignment 1 - Python
 
 There are 2 questions in this assignment.
 
