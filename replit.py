@@ -7,6 +7,7 @@ print('Actual:')
 import q1
 
 # Question 2
+print()
 print('Question 1')
 print('----------')
 print('Expected:')
